@@ -1,0 +1,15 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "prettier": {},
+  "dependencies": {
+    "prettier": "^2.2.1",
+    "zora": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
